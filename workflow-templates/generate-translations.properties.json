@@ -1,0 +1,4 @@
+{
+  "name": "Generate Translations",
+  "description": "This workflow will allow generating translations for pot/po/mo files as needed based on the current plugin."
+} 
