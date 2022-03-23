@@ -1,0 +1,4 @@
+{
+  "name": "Deploy to WordPress.org",
+  "description": "This workflow will allow deploying this plugin to WordPress.org using the same plugin slug name as the repository. See 10up/action-wordpress-plugin-deploy for info on how to further customize if needed."
+} 
