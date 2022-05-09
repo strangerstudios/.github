@@ -5,7 +5,7 @@
 - All of our software is free to use.
 - All of our content is free to consume.
 
-At [Stranger Studios[(https://www.strangerstudios.com), we build products around the platforms we create, including support, automation, guidance, and enhanced content delivery. 
+At [Stranger Studios](https://www.strangerstudios.com), we build products around the platforms we create, including support, automation, guidance, and enhanced content delivery. 
 
 Businesses that use our platforms benefit from fast, secure software built specifically to help them make more money. Individuals and organizations use that money to find freedom in their lives and to achieve their respective goals.
 
