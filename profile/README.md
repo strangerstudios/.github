@@ -20,8 +20,15 @@ We do things [The WordPress Way](https://therealjasoncoleman.com/2022/04/26/the-
 
 All of our code is here on GitHub. We have embraced the GPL and try to not only live up to the law of the license but the spirit of it as well. This means making our code accessible to everyone. Check out our respositories here on Github, including:
 
-- [Paid Memberships Pro](https://www.paidmembershipspro.com), a WordPress membership plugin to restrict access to content and charge recurring subscriptions using Stripe, PayPal, and more.
-- [Sitewide Sales](https://sitewidesales.com/), a plugin to run Black Friday, Cyber Monday, or other flash sales on your WordPress-powered eCommerce or membership site with WooCommerce, Easy Digital Downloads, and Paid Memberships Pro.
+## Paid Memberships Pro
+A WordPress membership plugin to restrict access to content and charge recurring subscriptions using Stripe, PayPal, and more.
+
+[GitHub Repository](https://github.com/strangerstudios/paid-memberships-pro/) | [Plugin Homepage](https://www.paidmembershipspro.com)
+
+## Sitewide Sales
+A plugin to run Black Friday, Cyber Monday, or other flash sales on your WordPress-powered eCommerce or membership site with WooCommerce, Easy Digital Downloads, and Paid Memberships Pro.
+
+[GitHub Repository](https://github.com/strangerstudios/sitewide-sales) | [Plugin Homepage](https://sitewidesales.com/)
 
 Our full collection of over 150 open source solutions are available on GitHub.
 
