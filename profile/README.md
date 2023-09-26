@@ -13,10 +13,9 @@ The company was founded in 2006 by [Jason Coleman](https://github.com/ideadude) 
 
 # Our Open Source Solutions
 
-We do things [The WordPress Way](https://therealjasoncoleman.com/2022/04/26/the-wordpress-way/).
+We are commited to Open Source.
 
 1. **We think using the GPL license will result in the best code.**
-2. WordPress uses the GPL license, and Matt Mullenweg and the other WordPress leaders encourage and expect plugins to be GPL.
 
 All of our code is here on GitHub. We have embraced the GPL and try to not only live up to the law of the license but the spirit of it as well. This means making our code accessible to everyone. Check out our respositories here on Github, including:
 
@@ -42,7 +41,7 @@ Our core values help us to make decisions about our work. When we are stuck betw
 - We take responsibility for our own work.
 - We have respect for each other and our customers.
 - We are all human.
-- We are committed to open source and "the WordPress way".
+- We are committed to open source.
 
 # How We Use GitHub
 
