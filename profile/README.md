@@ -13,9 +13,7 @@ The company was founded in 2006 by [Jason Coleman](https://github.com/ideadude) 
 
 # Our Open Source Solutions
 
-We are commited to Open Source.
-
-1. **We think using the GPL license will result in the best code.**
+We are commited to Open Source. **We think using the GPL license will result in the best code.**
 
 All of our code is here on GitHub. We have embraced the GPL and try to not only live up to the law of the license but the spirit of it as well. This means making our code accessible to everyone. Check out our respositories here on Github, including:
 
@@ -51,4 +49,4 @@ However, it takes a lot of work to store, maintain, and contribute to our code b
 
 - We encourage and welcome any contribution to our code. If you find a bug, report it in an Issue for that plugin's GitHub repository.
 - Anyone from inside or outside our team can submit a potential code change or 'Pull Request'. Once submitted, the repository owners review these code changes, post comments, suggest changes, then merge or reject them.
-- If you're not a developer, you can still get involved by contributing a translation through GitHub or directly to a plugin through GlotPress on WordPress.org.
+- If you're not a developer, you can still get involved by contributing a translation through GitHub by [contacting us](https://www.paidmembershipspro.com/contact/).
